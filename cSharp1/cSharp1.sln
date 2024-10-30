@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharp1", "cSharp1.csproj", "{9596745F-3D6A-4289-AFFB-FF7A0383B585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "..\SimpleCalculator\SimpleCalculator.csproj", "{10845851-CEE6-4D2D-8113-048587487D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9596745F-3D6A-4289-AFFB-FF7A0383B585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9596745F-3D6A-4289-AFFB-FF7A0383B585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9596745F-3D6A-4289-AFFB-FF7A0383B585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9596745F-3D6A-4289-AFFB-FF7A0383B585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10845851-CEE6-4D2D-8113-048587487D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10845851-CEE6-4D2D-8113-048587487D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10845851-CEE6-4D2D-8113-048587487D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10845851-CEE6-4D2D-8113-048587487D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B0378C5-439F-4797-AC9D-8B35C339210D}
+	EndGlobalSection
+EndGlobal

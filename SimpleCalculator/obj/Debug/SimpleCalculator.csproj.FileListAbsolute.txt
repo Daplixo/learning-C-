@@ -1,0 +1,7 @@
+C:\learning C#\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\learning C#\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\learning C#\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\learning C#\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\learning C#\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\learning C#\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\learning C#\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

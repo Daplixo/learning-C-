@@ -1,0 +1,7 @@
+C:\learning C#\cSharp1\bin\Debug\cSharp1.exe.config
+C:\learning C#\cSharp1\bin\Debug\cSharp1.exe
+C:\learning C#\cSharp1\bin\Debug\cSharp1.pdb
+C:\learning C#\cSharp1\obj\Debug\cSharp1.csproj.AssemblyReference.cache
+C:\learning C#\cSharp1\obj\Debug\cSharp1.csproj.CoreCompileInputs.cache
+C:\learning C#\cSharp1\obj\Debug\cSharp1.exe
+C:\learning C#\cSharp1\obj\Debug\cSharp1.pdb

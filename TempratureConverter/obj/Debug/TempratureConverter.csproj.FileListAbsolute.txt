@@ -1,0 +1,7 @@
+C:\learning C#\TempratureConverter\bin\Debug\TempratureConverter.exe.config
+C:\learning C#\TempratureConverter\bin\Debug\TempratureConverter.exe
+C:\learning C#\TempratureConverter\bin\Debug\TempratureConverter.pdb
+C:\learning C#\TempratureConverter\obj\Debug\TempratureConverter.csproj.AssemblyReference.cache
+C:\learning C#\TempratureConverter\obj\Debug\TempratureConverter.csproj.CoreCompileInputs.cache
+C:\learning C#\TempratureConverter\obj\Debug\TempratureConverter.exe
+C:\learning C#\TempratureConverter\obj\Debug\TempratureConverter.pdb

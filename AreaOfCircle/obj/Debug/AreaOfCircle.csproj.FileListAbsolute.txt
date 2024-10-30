@@ -1,0 +1,7 @@
+C:\learning C#\AreaOfCircle\bin\Debug\AreaOfCircle.exe.config
+C:\learning C#\AreaOfCircle\bin\Debug\AreaOfCircle.exe
+C:\learning C#\AreaOfCircle\bin\Debug\AreaOfCircle.pdb
+C:\learning C#\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.AssemblyReference.cache
+C:\learning C#\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\learning C#\AreaOfCircle\obj\Debug\AreaOfCircle.exe
+C:\learning C#\AreaOfCircle\obj\Debug\AreaOfCircle.pdb
